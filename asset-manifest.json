@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fredy-AP/localStorage/static/css/main.4cbd88d2.css",
+    "main.js": "/Fredy-AP/localStorage/static/js/main.fdadb02f.js",
+    "static/media/logo.png": "/Fredy-AP/localStorage/static/media/logo.ac480b899617c29fd457.png",
+    "index.html": "/Fredy-AP/localStorage/index.html",
+    "main.4cbd88d2.css.map": "/Fredy-AP/localStorage/static/css/main.4cbd88d2.css.map",
+    "main.fdadb02f.js.map": "/Fredy-AP/localStorage/static/js/main.fdadb02f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cbd88d2.css",
+    "static/js/main.fdadb02f.js"
+  ]
+}
